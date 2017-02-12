@@ -9,7 +9,6 @@ module.exports = {
   "kms-vault": {
     awsOpts: {
       region: "us-east-1"
-    },
-    kmsKeyAlias: "alias/forTest"
+    }
   }
 }
